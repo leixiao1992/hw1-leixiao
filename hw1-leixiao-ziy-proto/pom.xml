@@ -108,5 +108,5 @@
   	<connection>scm:git:git@github.com:leixiao1992/hw1-leixiao.git</connection>
   	<developerConnection>scm:git:git@github.com:leixiao1992/hw1-leixiao.git</developerConnection>
   </scm>
-  <version>0.0.1</version>
+  <version>0.0.5</version>
 </project>
